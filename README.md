@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulhadi-programmer&label=Profile%20views&color=0e75b6&style=flat" alt="abdulhadi-programmer" /> </p>
 
-- 🔭 I’m currently working on **Bakery Management System**
+<!-- - 🔭 I’m currently working on **Bakery Management System** -->
 
-- 🌱 I’m currently learning **Streamlit**
+<!-- -🌱 I’m currently learning **Streamlit**  -->
 
 - 👯 I’m looking to collaborate on **Some Advanced Python Cli Project**
 
 - 🤝 I’m looking for help with **with some Python Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AbdulHadi-Programmer](https://github.com/AbdulHadi-Programmer)
+- 👨‍💻 All of my projects are available at https://github.com/AbdulHadi-Programmer
 
 - 💬 Ask me about **python**
 
