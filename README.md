@@ -7,7 +7,7 @@
 
 <!-- -🌱 I’m currently learning **Streamlit**  -->
 
-- 👯 I’m looking to collaborate on **Some Advanced Python Cli Project**
+- 👯 I’m looking to collaborate on **Some Advanced Python Django Projects**
 
 - 🤝 I’m looking for help with **with some Python Projects**
 
